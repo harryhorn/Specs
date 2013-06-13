@@ -7,7 +7,7 @@
 Pod::Spec.new do |s|
   s.name         = "ModelStore"
   s.version      = "0.1.0"
-  s.summary      = "Model management and synchornization"
+  s.summary      = "Model management and synchornization."
   s.homepage     = "http://EXAMPLE/helpers"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.author       = { "Harry Hornreich" => "harryhorn@gmail.com" }
